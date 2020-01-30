@@ -1,0 +1,41 @@
+.container{
+    background-color: lightblue;
+    display: flex;
+    padding: 1rem;;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+.main-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.content{
+    padding: 4rem;
+    width: 50%;
+    background-color: lightsalmon;
+    text-align: center;
+    
+}
+.sub-container{
+    width: 50%;
+    padding: 4rem;
+}
+.content1{
+    width: 100%;
+    padding:2rem;
+    background-color: aqua;
+    
+
+}
+.content2{
+    width: 25%;
+    padding: 2rem;
+    text-align: center;
+    background-color: lawngreen;
+    margin: 0 auto;
+    
+    
+}
