@@ -1,0 +1,70 @@
+
+.head{
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+    top: 0px;
+
+}
+
+.xyz{
+    margin-top: 20px;
+}   
+.sign{
+    margin-top: 0px;
+}
+
+.body-container{
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.potato{
+    border: 1px solid gray;
+    width: 20%;
+    text-align: center;
+}
+.tomato{
+    border: 1px solid gray;
+    width: 20%;
+    text-align: center;
+}
+.carrot{
+    border: 1px solid gray;
+    width: 20%;
+    text-align: center;
+}
+.onions{
+    border: 1px solid gray;
+    width: 20%;
+    text-align: center;
+}
+.body-container2{
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.capsicum{
+    border: 1px solid gray;
+    width: 20%;
+    text-align: center;
+}
+.mushrooms{
+    border: 1px solid gray;
+    width: 20%;
+    text-align: center;
+}
+.beetroot{
+    border: 1px solid gray;
+    width: 20%;
+    text-align: center;
+}
+.palak{
+    border: 1px solid gray;
+    width: 20%;
+    text-align: center;
+}
